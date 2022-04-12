@@ -4,6 +4,7 @@
 import os
 from collections import Counter
 
+# Get data names and positions
 input_path = 'input_compare_labels/all_sub_subclades/'
 result = os.listdir(input_path)
 
@@ -18,6 +19,7 @@ for i in result:
         subclade_files.append(i)
         subclade_names.append(i.split('.')[0])
 
+# Count paralog combinations
 dict1 = dict()
 counter = 0
 
@@ -33,10 +35,12 @@ for line in species_file:
     dict1[species] = gene_presence
     print(counter)
 
+# Get counts
 res = Counter(dict1.values())
 
-new_file2 = open('occurence_counts.txt', 'w')
+# Save in output
+output_file = open('occurence_counts.txt', 'w')
 
 for element in res:
     print(res[element])
-    new_file2.write(element + ': ' + str(res[element]) + '\n')
+    output_file.write(element + ': ' + str(res[element]) + '\n')
