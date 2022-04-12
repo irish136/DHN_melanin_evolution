@@ -1,0 +1,1021 @@
+DATASET_EXTERNALSHAPE
+SEPARATOR TAB
+DATASET_LABEL	Gene occurrence
+COLOR	#007dfb
+FIELD_COLORS	#f44336	#f1c232	#00ff00	#c90076	#0000ff
+FIELD_LABELS	ABR2	AYG1	PKS1	SCD1	RDT1
+LEGEND_TITLE	Genes
+LEGEND_COLORS	#f44336	#f1c232	#00ff00	#c90076	#0000ff
+LEGEND_LABELS	ABR2	AYG1	PKS1	SCD1	RDT1
+LEGEND_SHAPES	2	2	2	2	2
+HORIZONTAL_GRID	0
+VERTICAL_GRID	-1
+MARGIN	0
+SHAPE_TYPE	2
+SHAPE_SPACING	-50
+HEIGHT_FACTOR	7
+DATA
+	ABR2	AYG1	PKS1	SCD1	RDT1
+Beaba1	1	1	2
+Elyde1	4	1	4	2	4
+Erebi1	1	1	1	1
+Aspinso1	1	1	3	1	1
+NsA226_1	2	1	1	2
+Phycitr1	1	1	1	3
+XylarbFL	1	2	1	1	2
+Aspwest1	1	1
+Conioc1	2	2	4	4
+Penth1	1	1	2	2	2
+Corsim1	1	3	2	4
+Pyrly1	1	2	4	1	4
+Tubin1_1	4	2
+Matter1	2	3	1
+MorvulMes17_1	4	1	2
+Aspste1	1	1
+Roscor1	1	2	1	1	3
+Aspneof1	1	2
+XyF821_1	1	1	1	1
+Pestal1	1	1	3	2	4
+Aspramb1	1	1	3	1	2
+Aspfru1	1	1	3	3	4
+Asppuu1	2	2	2	4	4
+Aspnid1	1	1	3	1	2
+ThoPMI491_1	1	1	1	2
+Aspala1	1	1	2	3	2
+Leuca1	4	1	2
+Plecuc1	1	1	1	1	3
+Setho1	1	2	1	4
+Aspgl1	1	1	2	1	1
+Cenge3	2	3	1	3
+Aspuva1	1	4	2	2
+Cernew1	2	2	2	2
+Paevar_HGY_1	2	1	1
+Ascni1	2
+Triaru1	2	2
+Lepmu1	1	1	2	1	2
+Pensub1	1	1	1	2	3
+XylPMI6	2	1	3	1	2
+XylF594	2	1	1	2
+Aspfij1	1	5	1	2
+Denna1	1	2	3	1	3
+Cocst1	4	1	3	2	4
+Aspfl1	2	1	2	1
+Mycfi2	3	2	3	1	2
+Mycgr3	4	2	2	2	2
+Morulm1	4	1	2
+An16_1	2	1	1	1
+Sphbr2	4	2
+Pendec1	2	1	1	1
+Aspparac1	1	1	3	1	1
+ClaN9_1	2	2	1	1	2
+Fusgr1	1
+Xylbam139988_1	1	2	1	1	2
+Claye1	2	2	2	2	3
+Acrchr1	1	1
+Penswi1	3	1	2	2	3
+Aspparv1	2	3	4
+FusoxFo47_2	1	1	1	1
+Ophdi1	1	2	3	1	3
+Aspind1	1	2	1	1
+Colgo1	3	1	1	2
+Trepe1	1	2	3	1	2
+Psehy1	1	1	2	1	3
+Aspca125_1	1	1	1
+Aspcal1	3	1	3	2
+Colph1	1	1	1	2
+Aspfu1	1	1	4	1	1
+Fusre1	1	1
+Rhier1	4	1	3	1	3
+Linrh1	2	1	1	2
+FoxPHW726_1	1	1	1
+Morco1	4	1	2
+Patat1	1	2	1	2
+XylF016	1	2	1	1	2
+Morimp1	4	1
+Atrpi1	4	1	4	2	4
+Diavoc1	4	1	1	3	4
+Pyrom1	3	1
+HyF543_1	2	1	1	3
+Humgr1	1	2
+Aspacri1	1	1	3	1	3
+FoxF1_1	3	1	1
+Annsty1	2	1	1	3
+Aspacu1	1	3	2	1
+EndpusZ1	1	2	2	3
+Achstr1	1	2	1	3
+Aspaura1	1	1
+Lasmin1	1	2	2	1	3
+Capse1	2	2	1	1	2
+Phcapit2	1	1	1	3
+Parch1	1	2	1	1	2
+Stael1	1	2	2	2	2
+Fenfe1	2	3	1	3
+ConPMI546	1	1	2	3
+Pseel1	4	1	2	1	4
+Pezech1	2	4	1
+Pensoli1	2	1	2	1	2
+Triatr1	2	2	1
+Khuory1	3	2	3	1	2
+Aspfumis1	1	1	3	2	2
+Loppic1	4	1	3	2	4
+Trilon1	2	2
+Asptra1	2	1	2	1
+Phy27169	1	1	1	3
+Lacsu1	4	4	2
+Aciri1_iso	1	2	1	1	2
+HyF8_1	1	2	3	2	4
+HyprubER19_1	2	2	1	2
+Dales1	2	1	1	4
+Pcit129764	1	1	1	3
+Torra1	1	1	1
+Aplpr1	1	4	1	2
+Annmae1	2	1	1	2
+Neodi1	1	1	1
+Asppar1	2	1	2	1
+Aspkev1	1	1	2	2
+Alts17_1	2	3	1	2
+Penanta1	3	1	2	1	4
+Usnflo1	4	1	4	3	4
+Collup1	3	1	1	2
+Theau2	1	1
+Fusoxvas1	1	1	1	1
+Bysni1	1	4	2	3
+Asppset1	2	1	3	1	2
+Totfu1	2	3	1	2
+Penox1	2	1	2	2	2
+Lopma1	1	2	3	2	3
+FusspF11_1	1
+Gloci1	4	1	1	1	2
+Wilmi1	4	4	1
+Hyptru1	2	1	1	2
+Linin1	2	2	2	1	3
+Aspmul1_1	2	1	2	2
+Aspang1	2	2	2	4	4
+Aspcreb1	2	2	3	4	4
+Podjug1	2	2	1	3
+Aspbot1	1	1	3	2	2
+PenbrAgRF18_1	3	1	1	1	3
+Chafi1	1	1	2	1	3
+Triru1	1	1
+Greabi1	4	1	2	1	2
+Botdo1_1	2	1	3	1	3
+Triatro1	2	2	1
+KdCBS826_1	2	2	1	2
+Monpu1	1	1	2
+Asppri1	3	1	1	1	1
+Dalloc1	2	1	1	2
+Aspmuri1	1
+TriviGv29_8_2	2	2	1
+Colco1	3	1	1	2
+Maseb1	1	2	2
+Seppo1	2	4	2	3
+Porpun1	1	3	2	4
+Colme1	3	1	1	2
+Aspsublat1	1	1	3	2	4
+Pcit131864	1	1	1	3
+VenspP74_1	1	2	2	1	3
+Aspnut1	1	1	3
+Bissp1	4	1	2	2	3
+EurotioJ33F_1	2	1	1	1	2
+Aspve1	2	2	3	3	4
+Altar1	1	2	1	2
+Plecto1	1	3	2	4
+Colac2	4	1	2	2
+EurotioJ34F_1	2	1	1	1	3
+Brefa1	1	1	1	1
+Aspcar1	2	2	2
+Aspquag1	1	1	3	3	4
+Gelte1	2	1	2
+Aspaste1	2	2
+Alikh1	2	3	1	2
+FoxF_1	3	1	1
+Cerzm1	3	2	3	1	2
+Xylpal1236_1	1	2	1	3
+Glost2	1	1	3	1	3
+Currey1	1	2	3	2	2
+Gaegr1	1	2	2	2
+Aspcer1	4
+Crypo1	1	1	2	1	3
+Delst1	2	2	2	3
+Mordis1	4	1	2
+XylF043	1	2	3	1	2
+Phycit1	1	1	1	3
+Fox26365_1	3	1	1
+Phiatt1	1	1	1	2	2
+Thihy1	1	1	2
+Ilyrob1	2	1	1	1
+Cucbe1	1	1	2	1	3
+Morvulg1	4	1	2
+Veren1	2	2	2	1	3
+Aspbr1	1	3
+Altta1	3	3	1	3
+Fusgra2	2	1	1
+Pensol1	2	1	2	1	2
+Artol1	4
+Penexp1	1	1	2	2	4
+Aspper1	2	1	1	2
+Lophiu1	1	2	3	1	4
+Karrh1	1	2	3	2	3
+Myche1	1	2	1
+FoxF7_1	3	1	1
+MarPMI226	2	2
+Aspfumig1	1	1	2	3	3
+Asplen1	1	1	3	2	2
+Aspamb1	1	1	2	1	1
+Pleav1	1	1	4	2	2
+Terbo2	2	4
+Fusso1	1	1	1
+Pcit16586	1	1	1	3
+Talma1_2	1	1	2	4	4
+Cadsp1	4	1	4	2	4
+Zalva1	4	1	4	1	4
+Phomu1	1	2	1	1	4
+Neute_mat_a1	2	1	2
+Parchr1	2	2	2	1	3
+Penfla1	1	1	1	1	1
+Aspsia1	2	1	2	1	2
+Nemdif1	2	2	1	2
+Whamic1	1	2	2	1	2
+Asppern1	1	1	2	1	1
+Bysci1	2	2	1	2
+Ncrass2	2	1	2
+Cersc1	2	1	2
+Settu3	1
+Altcar1	2	4	1	2
+Aspsep1	3	2
+Aspibe1	1	1
+Phcapi1	1	1	1	3
+Lopnu1	1	2	4	3	4
+Aspph1	1	3
+Lashi1	3	2	1	2
+Lobpul1	4	4	1	4
+Bismed1	1	2	2	1	2
+Penac1	1	2	2	3	3
+Claca1	2	2	3	3	4
+Altpo1	1	4	1	2
+Asptetr1	1	1	3	3	4
+Tercla1	3	3
+Bombom1	2	1	1
+Settur3	2	3	3	4
+Sarstr1	1	1
+Aspnis1	1	1	2	1	1
+Penste1	1	1	2	2	1
+Aspcapp1	2	1	3	1	1
+Aspjap1	1	3	2	2
+Daralp1	1	2	3	4
+Ilysp1	3	1	1	1
+Trici4	2	2
+Tubmes1	4	2
+ChetHAW225_1	2	4	2	3
+Neute_matA2	2	1	2
+Thian1	1	1	2
+Perma1	1	2	3	3
+Tubme1v2	3	2
+Aspneoc1	1	1	1	1	1
+Plecucu2	1	1	1	1	2
+Lorma1	4	1	4	1	2
+Aspspi1	1	1	3	1	1
+Aspaur1	1
+Themi1	1
+Micmi1	1	4	2	2
+Cloros1	1	1	1	1
+DaFL1419_1	2	1	1	2
+Phcitr1	1	1	1	3
+Aspins1	1	1	3	1
+Corca1	4	2	3	1	3
+NsCB679_1	1	2	3	2	3
+Colcu1	1	1	1	2
+Asphai1	2	3	1	3
+Aspni_NRRL3_1	1	3
+Altlo1	2	2	1	2
+Colzo1	3	1	2	2
+Xylgra1	2	2	1	2
+Xyldig1	2	3	2	3
+Hypsub2	2	1	1	2
+CocheC4_3	2	4	2	3
+Meltu1	3	1	4	1	3
+Mordim1	4	1	2
+Asprec1_1	1	1	4	1	1
+Penvul1	2	1	3	2	2
+Lopnit1_1	4	1	3	2	3
+XylFL1651	2	2	2	4
+Daral1	2	3	3	3
+Chathe1	1	1	3
+Neucr48_1	2	1	2
+Asptam1	2	1	3	1
+Fusoxys1	1	1	1	1
+Conlig1	1	1	2	3
+Aspneow1	1	1	3	1	1
+Aspth1	3	1	3	1
+XyF4_2	2	2	2	3
+Altte1	3	3	1	2
+FusspF23_1	4	1
+Aspaurlat1	2	1	1	2	4
+Aspcae1	2	1	3	1	1
+Mychet1	1	1	2	1	3
+Fusoxmel1	2	1	1	1
+Aspmeg1	1	1	2	1	1
+Pcit141352	1	1	1	2
+Tolinf1	1
+Diadis1	1	1	2	2	4
+Lolmi1	1	1	1	1
+Aspcl1	1	1	2	1	2
+DotP12C66	2	1	1	2
+Micbo1	2	1	1	1	2
+Ilyeu1	3	1	1	1
+Penja1	3	2	1	2	3
+Colhig2	4	1	1	3
+Aspund1_1	1	1	3	1	2
+Penla1	1	1	3	2	1
+Tirniv1	2	3
+Penpol1	1	1	2	1	2
+Penbi1	2	1	2	1	2
+ChetHm338_1	2	4	3	4
+Aspni_bvT_1	1	3
+Exosi1	2	2	1	1	2
+Cornip1	1	1	1	3
+Aspamoe1	3	2	3	3	4
+Aspcris1	1	1	2	2	2
+Verda1	1
+Aspdro1	1	1	4	2	3
+Coltof1	4	1	1	3
+Parbra1	1
+Tubma1	4	2
+Colpa1	3	1	1	2
+Erypi2	2	1
+Neofi1	1	1	4	2	2
+Anntru1	2	1	1	3
+Dalba1	2	1	1	3
+XylF933	1	2	2	1	2
+Mictr1	2	1
+Pcitr2	1	1	1	3
+Phisc1	4	1	4	1	3
+Pengl1	3	1	3	2	3
+Aspaurful1	1
+Antav1	1	2	3	2	3
+XylFL42	1	2	2	1	2
+Metro1	4	2	2	1
+Aspspir1	1	1	2	1	2
+Lasov1	1	2	2	1	3
+Dacma1	1	1	2	1
+Annmin1	2	2	1	2
+Didsa1	1	2	4	1	3
+Aspdur1	2	1	3	1	2
+Aulhe2	2	1	1	2
+Pcit17464	1	1	1	3
+Symko1	4	4	1	1
+Wesor1	1	4	1	2
+Clagr3	4	1	4	4	4
+Xylscr1	1	1	3	2	4
+Colin1	2	1	1	2
+Clael1	1	2	2	1	2
+Horwer1	3	2	2	4
+Coclu2	3	4	2	3
+Aspsc1	2	1	1	3
+FoxF04_1	3	1	1
+Ascsa1	4	3	2
+Asppsen1	2	1	2	1
+Polci1	1	1	2	1	2
+Fuseq1	1	1
+Colce1	3	1	1	2
+Rhesp1	4	1	2	2	4
+Aspsil1	1	1	2	2	4
+Aspmic1	2	1	2	1	1
+Magor1	2	1	1	1	2
+Ascim1	4	1	1
+Eutla1	1	2	2	3
+Trilo3	2	2
+Kalpfe1	1	4	1
+Pennal1	2	1	4	1	1
+Cocba1	2	1	1
+Didex1	1	1	2	1	2
+Aspcos1	1	2
+Aspcanin1	2
+Penatra1	2	1	1	1	2
+Rhiund1	4	1
+Fusfu1	1
+Blugra3_16	2	1
+Aspnov1	1	1	3	2	3
+Triatrov1	2	2	1
+Pengri1	1	1	3	1	1
+Aspegy1	1	3	1
+XylFL44	1	2	1	1	2
+Aspbrev1	1	1	2	1	1
+Glonio1	2	2	3	1	3
+Verga1	3	4	1	2
+HypCI4A_1	2	2	1	3
+Neuhi1	2	1	2
+XylFL19	1	2	2	3
+CocheC4_1	2	4	2	3
+Phycapi2	1	1	1	3
+Aspac1	1	1	3	2
+Conap1	1	1	3	2	3
+Collu1	3	1	1	2
+Hypvin1	3
+Nemani1	2	3	3	4
+Trigui1	2	2	1
+Colsa1	4	1	2	2
+Crypto1	1	2	3	1	3
+Asposti1	2	1
+Aspnom13137_1	2	1	2	1
+Aspass1	1	1	1	1	1
+XylF662B	1	2	1	1	3
+Cloaq1	2	2	3	2	2
+AurpulNBB1	1	2	1	1	2
+Altga1	1	2	3	1	4
+Pezsub1	3	1
+Zymps1	2	2	2	1	2
+Asppari1	2	1	2	1
+Amyenc1	4	4	1	3
+Melbi2	4	1	4	1	3
+Calful1	3	2	1
+NeF031_2	1	2	1	2
+Pcapi1	1	1	1	3
+HyFL11_1	2	2	1	2
+Fusoxalb1	1	1	1	1
+Penita1	1	1	1	1	2
+Aspalli1	2	1	3	2	1
+Leptod1	4	1	3	3	4
+TrireRUTC_1	2	2
+Altli1	2	3	1	3
+Calmar1	4	4	3
+Aspind2_1	2	1	2	1	2
+Xylhel2	1	1	1	3
+NeoP8C63_1	4	1	4	1	4
+Dipse1	1	1	2	1	3
+ColoR113_1	3
+Glalo1	4	1	3	1	3
+ExoJ61F_1	4	2	1	1	2
+Pencop1	2	1	3	1	1
+Aspudag1	2	1	1	2	3
+Tubcan1	3	2
+Hyspu1_1	3	2	3	1	3
+Geocar1	2	4
+Fonpe1	2	2	2	2	4
+Aspcalif1	1	2	1
+Aspneoi1	1	1	1
+Fonmo1	2	2	2	2	4
+Zasce1	4	2	2	1	3
+Aspspa1	1	1	2	1	1
+Aspoli1_1	1	1	3	2	4
+Gloac1	4	1	2	2
+Colta1	3	1	1	2
+Fonmu1	2	2	2	1	4
+Aciaci1	1	1	1	1
+Erynec1	2
+Asppip1	2
+Mictri1	2	1	1	1	2
+Talst1_2	1	1	1	2	3
+Aspbip1	1	1	1	3	3
+Trire2	2	2
+Dotse1	1	1	1	1	4
+Aspni7	1	3
+Aspcla1	1	1	3	1	1
+Aspaurlut1	1	1	1	1	1
+Aspcap1	2	1
+Apope1	2	2	3	2
+Calpu1	1	3	2	4
+Podans1	1
+Magpo1	1
+Flaful1	1	2	3	1	3
+Morexi1	4	1	2
+Alts12_1	2	3	1	2
+Valla1	1	1
+Claim1	3	2	1	1	3
+Aspros1	1
+Bisnum1	1	2	2	2	3
+Chalo1	4	1	4	1	3
+Asplaci1	1	1	3	1	1
+Fusoxcon1	1
+Capfu1	2	1	3	2	3
+Boeex1	1	1	2	1	2
+Biscog1	1	2	2	2	3
+Thiap1	1	2	2
+Aspzo1	4	2	1
+Aspele1	1	1
+Antleu1	1	2	2	2	4
+Asptran1	1	2	1	2
+Xy1248_1	2	1	1	2
+Tribi1	1	1	1	2
+Phaal1	1	1	1	2
+Aspcon1	1	1	1	1
+Fustri1	1	3
+Macpha1	4	1	4	2	4
+Asptsu1	2	1	2	1	1
+Cercau1	1	2	1	2
+ChetPR9b_2	2	4	2	3
+Aaoar1	2	2	4	2	3
+Neopa1	2	1	4	1	2
+Aurpu_var_nam1	2	2	1	2
+AnF455	2	1	1	3
+Roster1	2	1	1	3
+Aspoc36_1	2	1	1
+Hisca1	1
+Apibac1	2	1	3
+Aspend1	2	1	2	1	2
+Aspnav1_1	1	1	3	1	3
+Herpot1_1	1	1	3	2	3
+Aspfer1	1	1	2	2	1
+Thite2	1	1	2	2
+Xylhyp1	2	1	1	2
+Talabor1	1	1	2	2	3
+FoxFo5176	1
+Penra1	3	1	3	1	3
+Fusco1	2	1	2
+Aspsubr1	2	1	1	3
+Bombar1	1	2	1	2
+Cypeu1	4	1	1	1	2
+Exoaq1	11	2	1	3	4
+Fusven1	2	1	1
+Bisme1	1	2	1	1	2
+Phcap1	1	1	1	3
+Trigam1	1	2
+Spoth2	1	1	2	1	3
+Aalte1	1	2	2	1	2
+Kalbru1	1	2
+Aspgra1	1	1	1	1	3
+Podcur1	1	2	2	2
+Aspcri1	1	1	2	1	1
+Xylcas1233_1	1	1	2	1	3
+Chagl1	1	2	2
+NeF916_1	1	1	1	2
+Neudi1	2	1	2
+Aspbom1	2	1	3	1	2
+TerNC1134_1	1	2	1	1	3
+Golor4	4	4
+HypEC38_3	2	2	2	4
+Xanpa2	2	2	1
+Colsp1	3	1	1	2
+Stagr1	2
+Aspign1	2	1	2	1	2
+Masph1	1	3	1	2
+Colna1	3	1	2	2
+Poddi1	2	1	1	3
+Aqupat1	1	2	4	1	3
+Tripara1	2	1	2
+Polfu1	2	2	3	1	2
+Penbr2	3	1	2	1	2
+Pyrinf1	1	2	2	2	3
+Triple1	2	2	1
+Pcit122482	1	1	1	3
+Aspbru1	1	3	2	2
+PlePMI138_1	2	3	1	3
+Aspall1	1	1	1	2	1
+Fusox32931	1	1	1
+Schves1	1	2	1	2
+Aspave1	2	2	2	1	1
+Amore1	4	1	4	1	3
+Morpun1	4	2	2
+Xylarb1243_1	1	2	2	2	3
+Acral2	1
+Tubbor1	4	2
+Claaq1	1	4	1	3
+Apimo1	2	2	4	2	3
+Bgh5874_1	2	1
+Asptan1	1	2	1	2
+Vercon1	4	3	2
+Aspor1	2	1	2	1
+Dallocu1	2	1	1	3
+Asptem1	1	2	1
+Corma2	1	1	1	3
+Gyrinf1	4	2	2
+Lepmi1	1	4	2	1
+Daldec1	2	1	1	4
+Aspvar1	1	2	1	2
+Asppul1	1	1
+XyF641_1	1	2	1	1	2
+Phypa1	1	1	1	3
+Spofi1	1	2	2	3
+Aspfili1	1	4	2	3
+Podan3	2	1	4
+Aspiiz1	2	1	1
+Altci1	1	2	3	1	3
+Grocl1	1	3	1	4
+Cylol1	1	1	2
+Myrian1	1	1	1	2
+Asptep1_1	1	1	1	1	1
+Melva1	4	1	4	1	4
+Melpu1	2	1	2	2	4
+HyNC1633_2	2	3	2	3
+Alalt1	3	3	1	2
+Durrog2	1	1	1	2
+Pench1	2	1	2	2	2
+Tubae1	4	2
+Trias1	2	3	1
+Aurpu_var_sub1	2	2	1	2
+Talpro1	3	2	3	4	4
+FusspF_1	2	1
+Colorb1	3	1	1	2
+Xylcube1	2	1	3	2	4
+Asptur1	1	1	2	1	1
+Fusva1	1
+Fusoxcub1	3	1	1
+Micca1	1	2	1	1
+Decga1	2	1	1	1
+Aspfalc1	1	1	3	3	4
+Disac1	1	2	4	1	2
+Pseule1	1	1	2	1	2
+Xyltel121673_1	1	1	1	1	3
+Albra1	2	1	2
+DalEC12_1	2	1	1	4
+Hyppol1	2	1	1	3
+Pyrsp1	1	2	2	2	3
+Tryvi1	4	1	1	3	4
+Leppa1	1	2	3	1	2
+Aspwes1	2
+Chame1	1	1	3	1	3
+Venin1	2	1	2	1
+Paevar1	2	1	1
+Aspni_DSM_1	1	3
+XyAK1471_1	1	2	3	2	4
+Trihyb1	1
+Colab1	3	1	2	1	3
+Hirmi1	1	1	2	2
+Aspfre1	1	1
+Trigu1	2	3	1
+LobpulSw1	4	4	2	4
+Macph1	1	1		2	4
+Altso1	2	4	1	1
+Clafu1	2	2	2	2	4
+Botci1	
+Tripra1	3	1
+Aspspe1_1	2	1	3	2	4
+Rhili1	2	2	4
+Xylven1	1	2	1	1	2
+Delco1	2	2	3	1	3
+Exoalc1	2
+Aspvad1	3
+Plemel1	4	4	1	2
+Venpi1	2	2	2	1	2
+Aspkar1	1	1	3	1	2
+Triat2	2	2	1
+Aspuda1	2	1	2	2	3
+Asppeni1	1	1	1	1	1
+Asplep1	2	1	3	3	1
+Aspden1	1	1	3	1	3
+Sclsc1	7	1
+Aspvir1	2	1	3	1	1
+Oidma1	3	1	3	1	4
+Aspte1	3	2	1
+Fusps1	2	1	1
+Aspamy1	1	1	2	2
+Fusoxrap1	2	1	1	1
+Exome1	4	2	1	1	3
+Amal64	1	2	3	1	3
+Aspmult1	1	1	2	1	1
+FusoxT415	1	1	1
+Xylber1	1	1	2	1	3
+Aspcost1	1	1	2	1	1
+Phimu1	3	1	4	2	4
+Asppust1	2	1	1	2
+Nemabo1	1	2	1	2
+Neora1	2	1	1
+Nieex1	2	1	2
+ColoR1_1	1	1	2	3
+Spafl1	4	1	3	2	4
+Pencit1	2	1	2	2
+Aspfloc1	2	1
+Xylcub1	1	1	3	2	4
+Endpal1	1	2	2	3
+Colgr1	4	1	2	2
+Morpra1	4	1	2
+Altda1	2	3	1	2
+Aspnaka1	1	1
+HypCO275_1	2	2	2	4
+Aspses1	1	1
+Umbpus1	4	3	3	1	2
+Aspcre1	1
+Veral1	1	1	2
+Cormi1	1	2	1
+Blade1	3
+FoxII5	2	1	1
+Aspfl2_3	2	1	2	1
+Aspaff1	1
+Artesp1	2	2	4	1	2
+Ilyro1	2	1	1
+XyF064_1	1	2	2	1	2
+Aspdese1	1	4	1
+Morsny1	4	1	2
+Photr1	1	2	3	3	4
+Dalver1	2	1	1	3
+Plesi1	1	1	2	1	3
+Didma1	1	2	2	1	3
+HyN597_1	2	2	2	4
+Neucr_trp3_1	2	1	2
+Colfa1	3	1	1	2
+XyFL1272_2	1	2	2	3
+Tripar1	2	2
+Pyrtt1	2	3	2	3
+Aspcorea1	1	1	3	1	1
+Colfi1	4	1	2	2
+Clasph1	2	2	3	1	2
+Neucr2	2	1	4
+XyFL1777_1	2	2	1	2
+Calor1	1	2	1	1
+Asparx1	1	1	2	2	1
+DiaPMI573_1	3	1	1	2	4
+Morana1	4	1	2
+PenchWisc1_1	3	1	2	2	1
+Xylint1	2	2	1	2
+BlugrR1_1	2	1
+CodFL17_1	2	3	2	4
+Astsub1	1	3	1	4
+Asptr1	1	1	1
+FoxF4_1	3	1	1
+Aspwe1	3	2	1
+Xylhe1	4	3	1	2
+Aspram1	1	1	3	1	2
+Color1	2	1	2	2
+TalaHC1_1_1	1	2	4	4
+Aspca3	1	1	1
+Asplac1	1	3
+Chove1	4	2	1
+Psene1	1	1
+Aspchev1	1	1	2	1	1
+Dalcal1	2	1	1	2
+Pseudest1	4	2	1	2
+LobpulAf1	4	4	2	4
+Aspfu_A1163_1	1	1	4	1	1
+Aspell1	1	1
+Aspsim1_1	2	1	3	1
+Aspwel1	2	2
+Asppha1	1	2	1
+Asphethal1	2	1	2	2
+Aspshe1	1	1	3	1	1
+Morpal1	4	1	2
+Microd1	1	2	1	2
+Amnli1	1	2	2	1	2
+Aspoc43_1	2	1	1
+Dibbae1	4	3	2
+Aspres1	1	1	1	1	1
+Mordel1	4	1	2
+Hypfra2	2	2	1	2
+Parsp1	2	1	4	1	3
+Pcit1226	1	1	1	3
+Aspten1	2	2	2	3	4
+Asphor1	1	2	2	1
+Asppterr1	2	1	1
+FvanT31_1	1	1
+Aspvio1	1	3	2
+Chain1	1	1	3
+Cloro1	1
+Lorju1	4	1	4	1	1
+Pendi1	1	1	1	2
+Asprhi1	1	1	4	1	1
+Asptu1	1	3
+Triha1	2	2	1
+Xylacu1	1	1	2	1	3
+Macan1	1	2	1	3
+Ophnu1	1	1	1	2
+LobpulSc1	4	4	1	4
+Aurpu_var_pul1	2	1	1	2
+Lepor2	4	1	3	3	4
+OphPMI7_1	1	1	4	2
+Thiar1	1	2	3	1	3
+Sorhu1	2	1	2
+Triasp1	2	4	1
+Anttom1	1	2	3	3	4
+Asppal1_1	2	1	1	1	1
+Phcit1	1	1	1	3
+Monru1	1	1	1
+FoxF03_1	3	1	1
+Acrvag1	1	2	3	2	4
+FoxF2_1	3	1	1
+Melsp1	2	1	2	1	3
+Rhyru1_1	1	2	1	1	4
+Tribre1	2	2
+Annmor1	2	1	1	2
+Bauco1	2	1	1	3
+Xylni1	1	1	1	2
+Aspneo1	1	2
+Acema1	1	3	1	1
+Colso1	3	1	1	2
+Zymar1	3	2	2	1	2
+Aspca11822_1	1	1	1
+Asppdef1	1	1	2	2
+Cha1176438	1	3	1	3
+Eurhe1	1	1	2	1	1
+Aspchr1	2	1	1	3
+Xylcur114988_1	1	1	2	1	3
+Amal63	2	3	1	3
+Aspfo1	1	3
+Pursp1	4	2
+Colny1	3	1	1	1
+Aspthe1	2	2	3	2	3
+Aspbrevi1	1	1	3	1	1
+Aspgal1	1	2	2	1	1
+Bisma1	1	2	2	2	3
+Altcr1	2	4	1	3
+Exosp1	3	1	1	2	2
+DallocA526_2	2	1	1	3
+Aurpu_var_mel1	1	2	2	1	2
+Truan1	2	2	2	1	2
+FoxF6_1	3	1	1
+Exoalc1_J33	3	1	2	2	4
+Disven1	4	2	2
+Hypmon1	2	1	1	2
+ThyN857_1	1	1	3	1	3
+Altalt1	3	2	1	2
+Ophpic1	1	1	1	2
+Asppara1	3	1	2	2	3
+Aspneoca1	2	1	1	1	1
+Marbr1	4	1	4	2	3
+Entma1	1	2	1	1	3
+Cocsa1	1	2	3	3	4
+Pennord1	2	1	1	1	2
+Gyresc1	3	2	2
+Morpop1	4	2	2
+Lashir1	2	2	2	1	3
+LecA013_1	1	2	1	3
+CocheC5_4m	4	2	2
+Aspne1	1	1	3	2	4
+FoxF08_1	3	1	1	1
+Asplup1	1
+DimP5P66	4	1	4	1	3
+Asppsf1	2	1	1	2	3
+MelPMI1271_1	4	1	4	1	3
+Triham1	2
+Penmal1	2	1	2	1	2
+Stobe1	2	3	1	2
+Colch1	2	1	2	3
+Colsu1	3	1	3	2
+Asppsev1	2	1	2	2	4
+Morsep1	4	1	2
+Morpul1	4	1	2
+Bulin1	4	1	3	1	3
+Aspoch1432_1	1	1	3	1	2
+Parbr1	1
+Altca1	2	4	1	2
+Exode1	2	2	1	1	2
+Hyprub1	2	2	1	3
+Monha1	3
+Fusoxrad1	2	1	1
+Pyrdom1	3	1
+Aspcor1	2	1	2	1
+Pieho1_1	1	1	1	2
+Hypcer1	2	2	1	2
+Annnit1	2	1	1	3
+Aspser1	3	1	2	1
+Pcitri2	1	1	1	3
+Cytch1	1	2	1	3
+Crypa2	1	3	3
+Asplon1	1	1	2	1	1
+Asphet1	1	1	1
+Grascr1	4	1	2	1	2
+XylF255	1	1	3	3	4
+Aspniv1	1	1
+Byssp1	1	2	1	1
+Xyllon1	2	3	3	4
+Aspnovo1	3	1	2	1
+Fusoxpis1	1	1	1
+Sodal1	1
+Pse1611_1	4	1	3	2	3
+Neobo1	2	1	1
+Asppsec1	2	1	2	1
+Stely1	2	4	2	4
+Aspmin1	2	1	2	1
+Nemsp1	2
+Aspquaf1	1	1	3	3	4
+FoxMRL8996	1	1	1	1
+Zoprh1	3	2	4	2	3
+Aspalbe1	2	1	3	3	1
+Aspcle1	1	1	3	1	3
+Exool1	3	2	1	1	4
+Tubgib1	4	2
+Aspara19utr	2	1	2	3
+Aspstec1_1	2	3	2
+Aspscl1	1	1	1
+Cocca1	2	4	2	3
+Fusoxlyc1	2	1	1
+Aspber1	2	1	3
+Fonnu1	2	2	2	2	4
+Stasp1	2	2	3	1	2
+NsA576_1	2	3	3	3
+Asppseute1	2	1	1
+Stano2	2	1	2	1	2
+Cocmi1	2	3	3	4
+Aspstel1_1	1	1	4	2	3
+Aspwak1	1	1	1	1	1
+Aspgig1	1	1	3	1	1
+Chafu1	1	3	1	3
+Asphom1	1	2	1	1
+ChetPR1x412_2	2	3	2	3
+Ampqui1	1	1	2	1	2
+Aspneoa1	1	1
+Aspflo1	1	3	2	1
+Aspfuni1	1	1	3	1	2
+HerpoJF53F_1	2	1	1	2
+Aspimp1	1
+Penfe1	2	1	1	1	2
+Clabul1	1	3	1	3
+PhaPMI8	2	1	2	2	4
+Pseve2	3	2	3	2	3
+Aspsub1	1	1
+Escweb1	1	1
+Cocvi1	2	3	2	3
+Aspfla1	1	1	3	3
+Aspcali1	2	1	3	2
+Phapo1	1	2	3	1	2
+Lopmy1	2	1	1	4
+Alalte1	2	2	1	2
+Penex1	1	1	2	2	4
+Altro1	2	2	1	2
+Hyafin1	4	1	4	1	3
+Lizem1	1	2	2
+Aspluc1	3	2	1	3
+Hyparg1	2	2	1	2
+Aspmir1	1	1	3	2	3
+Thelan1	1	1	2	2	1
+Pcit1373	1	1	1	3
+Morang1	4	1	2
+HerpoJ57F_1	2	1	1	2
+Conli1	1	1	2	3
+Fustr1	1	3
+Daces1	1	1	1	2
+Diaam1	2	1	2	2	4
+Penca1	4	1	1	1	3
+Lenfl1	2	2	2	2	4
+Tubmel1	3	2
+Pcit111	1	1	1	3
+HyFL1284_2	2	1	1	2
+Polsie1	4	1	1	2
+Linth1	1	1	2
+Aspger1	1	1	2	1
+TriharM_1	2	2	1
+Theglo1	2	1	1	1
+Exoxe1	4	2	1	1	3
+Trire_Chr	2	2
+Acastr1	4	1	3	1
+FusoxFo47	1	1	1	1
+CtCBS3_1	1	2	1	2	2
+Morarb1	4	1	2
+Rutfi1	2	2	2
+Aspcru1	1	1	3	1
+DelF756_1	1	2	3	1	3
+Altfr1	3	4	1	2
+Hypfus1	2	3	1	3
+Phach1	3	1	2
+Sorbr1	2	1	2
+Metac1	3	2	1	1
+Aspcu1	1	1	3	1	1
+Sepmu1	1	2	4	2	3
+Veneff1	2	1	1	2
+Kredeu1	2	3	1	2
+Colto1	3	1	1	3
+Aspneos1	3	1	3	3	4
+Aspflor1	1	3	2	2
+Annbov1	2	1	1	4
+Aspsy1	2	2	4	3	3
+Epini1	1	2	2	1	3
+PhaeoF889_1	2	1	3	2	3
+Mytre1	2	1	4	2
+Tubbr1_1	4	2
+Horac1	1	2	1	2
+Pilidi1	1	1	1	2
+Coler1	3	1	2	2
+Blugr2	2	1
+Zymbr1	4	2	2	2	2
+Ophpi1	1	2
+Morcon1	4	1	2
+Aspscle1	1	1	2
+Hymvar1	4	1	4	1	4
+Sarco1	4	4
+Elsamp1	1	1	1	1	3
+Jahaq1	1	2	2	1	3
+Dotsy1	2	4	3	4
+Alttom1	2	3	1	2
+Phycpc1	1	1	1	3
+Myrdu1	2	3	1	2
+Verdah1	1	1	2
+Aspbisp1	1	3
+Claba1	2	2	1	1	3
+Hypcro1	2	2	1	2
+Aspfove1	2	1	3	2	4
+Asphir1	1	1	2	1	1
+Asppap1	1	1	2	2	1
+Phycap1	1	1	1	3
+Sacpr1	1	1	1	3
+Aspeuc1	1	3
+Pyrco1	3	1
+LobpulSp1	4	4	1	4
+Triatrob1	2	1
+Fusoxy1	2	1	1
+Altma1	2	4	1	2
+Melti1	1	1	1
+TriharT22_1	2	3	2	1
+Podap1	2	2	1	3
+Aspoer1	2	1	4	2	2
+Aspsac1	1	1
+Aspca4	1	1	1
+XylPMI3_1	4	1	3	3	4
+Ternu1	2	2	2	1	2
+Ascra1	2	2	1	2
+Thest1	2	2	1	1
+HyFL1857_1	2	2	2	4
+Aspbre1	2	1	2	1	1
+Dalgra1	2	1	1	4
+Penant1	3	1	2	1	4
+Colca1	3	1	1	2
+Colsi1	3	1	1	2
+Greab1	4	1	2	1	2
+CocheC5_3	2	4	2	3
