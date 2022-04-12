@@ -1,7 +1,12 @@
+# Input: all DHN labels
+# Output1: counts per species per paralog
+# Output2: identifiers per species per paralog
+
 import os
 import numpy as np
 import pandas as pd
 
+# Get data 
 input_path = 'input_compare_labels/all_paralogs/'
 paralog_file_names = os.listdir(input_path)
 
@@ -48,6 +53,6 @@ for label in all_labels:
 
                     df_with_numbers[paralog][species] += 1
 
-
+# Save output
 df_with_ids.to_csv('table_species_vs_paralogs_identifiers.txt')
 df_with_numbers.to_csv('table_species_vs_paralogs_counts.txt')
