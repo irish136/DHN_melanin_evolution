@@ -2,10 +2,8 @@
 # Produces a list with different species and same species
 
 import os
-import itertools
-import numpy as np
-import pandas as pd
 
+# Get data
 input_path = 'input_compare_labels/'
 result = os.listdir(input_path)
 
@@ -41,13 +39,8 @@ only_file2 = species_file2 - species_file1
 
 # Number of species present in both files
 both_files = species_file1 & species_file2
-#print(both_files)
 
 
 print(label_files[0] + ',    # unique species: ', len(species_file1), ',  # species only in file 1: ', len(only_file1))
 print(label_files[1] + ',    # unique species: ', len(species_file2), ',  # species only in file 2: ', len(only_file2))
 print('# species in both files: ', len(both_files))
-#
-# print(both_files)
-
-
