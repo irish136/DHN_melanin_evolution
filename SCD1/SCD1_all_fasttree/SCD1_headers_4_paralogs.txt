@@ -1,0 +1,9 @@
+SORDARIO|jgi|Diavoc1
+SORDARIO|jgi|DiaPMI573_1
+LECANORO|jgi|Clagr3
+EUROTIO|jgi|Talpro1
+EUROTIO|jgi|Talma1_2
+EUROTIO|jgi|TalaHC1_1_1
+EUROTIO|jgi|Asppuu1
+EUROTIO|jgi|Aspcreb1
+EUROTIO|jgi|Aspang1
