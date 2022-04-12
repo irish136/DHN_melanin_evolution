@@ -1,9 +1,8 @@
+# This code takes all DHN labels as input
+# Output: it counts how often each paralog combination occurs, i.e. ~abr2_abr1_1~abr2_abr2_1: 1
+
 import os
 from collections import Counter
-import json
-import itertools
-import numpy as np
-import pandas as pd
 
 input_path = 'input_compare_labels/all_sub_subclades/'
 result = os.listdir(input_path)
@@ -18,11 +17,6 @@ for i in result:
     if ".txt" in i:
         subclade_files.append(i)
         subclade_names.append(i.split('.')[0])
-#
-# # Get all combination of subclade names
-# for L in range(1, len(subclade_names)+1):
-#     for subset in itertools.combinations(subclade_names, L):
-#         print(subset)
 
 dict1 = dict()
 counter = 0
@@ -40,9 +34,6 @@ for line in species_file:
     print(counter)
 
 res = Counter(dict1.values())
-#print(res)
-
-# test = Counter({'': 140, '_ayg1_1_ayg1_cladeA_pks1_4thn_1_rdt1_3hnr_rdt1_4hnr_1_scd1_all': 60})
 
 new_file2 = open('occurence_counts.txt', 'w')
 
