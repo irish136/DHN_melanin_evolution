@@ -1,4 +1,6 @@
-# output
+# Input: summary_table
+
+# Output
 # df1: dataframe with counts per species and gene
 # df2: dataframe with labels present in each gene
 
@@ -25,11 +27,6 @@ unique_names = set(unique_names)
 
 # Make matrices
 column_names1 = ['ABR2', 'AYG1', 'PKS1', 'SCD1', 'RDT1']
-# column_names2 = ['ABR2_1', 'ABR2_2', 'ABR2_3', 'ABR2_4',
-#                  'AYG1_1', 'AYG1_2', 'AYG1_3', 'AYG1_4',
-#                  'PKS1_1', 'PKS1_2', 'PKS1_3', 'PKS1_4',
-#                  'SCD1_1', 'SCD1_2', 'SCD1_3', 'SCD1_4',
-#                  'RDT1_1', 'RDT1_2', 'RDT1_3', 'RDT1_4', ]
 
 matrix1 = np.zeros((len(unique_names),5))
 matrix2 = np.zeros((len(unique_names),5))
@@ -52,10 +49,9 @@ for line in summary:
             new_info = str(previous_info) + ',' + identifier
             df2[gene][current_species] = new_info
 
-print(df2)
-#df1.to_csv('gene_occurrence.csv')
+df1.to_csv('gene_occurrence.csv')
 
+# Uncomment below to get the latex format
 # print(df1.to_latex(index=True))
-#
 # print(df2.to_latex(index=True))
 
