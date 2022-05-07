@@ -1,9 +1,14 @@
+# The downloaded JGI fasta and GFF files do have additional information
+# besides the species tree. This script changes the file names into
+# the species name + extesnion
+# Input: Fasta folder
+# Output: modified file names
+
+# Import libraries
 import pathlib
 import os
 
-path = str(pathlib.Path(__file__).parent.resolve()) + '/'
-result = os.listdir(path)
-
+# Change fasta files
 def change_fasta_name(file_name):
     if '_AssemblyScaffolds.fasta.gz' in file_name:
         species = file_name.split('_AssemblyScaffolds.fasta.gz')[0]
@@ -28,15 +33,16 @@ def change_fasta_name(file_name):
     new_name = path + species + '.fasta.gz'
     os.rename(old_name, new_name)
 
+# Get the right path
+path = str(pathlib.Path(__file__).parent.resolve()) + '/'
+result = os.listdir(path)
 
+# Save fasta files in list
 files = []
 for i in result:
     files.append(i)
 
-counter = 0
-
+# Change fasta file names
 for file in files:
     if file.endswith('.gz'):
-        #print(counter)
-        counter += 1
         change_fasta_name(file)
