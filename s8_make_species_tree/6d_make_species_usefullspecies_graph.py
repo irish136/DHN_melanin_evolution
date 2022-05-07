@@ -1,14 +1,24 @@
+# This script determines in how many species specific genes are present and occur once per species
+# Input: HMMsearch output
+# Output: tsv file with the number of selected gene and in how many species this gene is present
+
+# Import packages
 import gzip
 import os
 
+# Relevant directories
 input_path = 'output_hmmsearch/'
 output_path = 'hmmsearch_intersection/'
 result = os.listdir(input_path)
 
+# Variables
+lower_bound = 925
+upper_bound = 930
+
+# Open files
 long_list = open(output_path + 'all_presence_once_good.txt').readlines()
 unique_long_list = list(set(long_list))
-
-output_file = open(output_path + 'accurate_bigger_table1_925_930.txt', 'w+')
+output_file = open(output_path + 'accurate_bigger_table1_' + str(lower_bound) + '_' + str(upper_bound) + '.txt', 'w+')
 
 def count_genes(long_list, unique_long_list, threshold):
     intersection_result = []
@@ -16,8 +26,6 @@ def count_genes(long_list, unique_long_list, threshold):
         if long_list.count(gene) >= threshold:
             intersection_result.append(gene.strip())
     return intersection_result
-
-
 
 def count_species(file, gene_list, counter):
     with gzip.open(input_path + file, 'rt') as f:
@@ -37,21 +45,20 @@ def count_species(file, gene_list, counter):
         result = all(elem in genes_in_species_without_duplicates for elem in gene_list)
         if result:
             counter += 1
-
         return counter
-
 
 # Save filenames from hmmsearch output in files
 files = []
 for i in result:
-    if i != 'predicted_genes_aa_Aspoch1.txt.gz' and i != 'predicted_genes_aa_Aspnom1.txt.gz' and i != 'predicted_genes_aa_Xylcur1.txt.gz' and i != 'predicted_genes_aa_Aspcal1.txt.gz':
+    # Four files are excluded
+    if i != 'predicted_genes_aa_Aspoch1.txt.gz' and i != 'predicted_genes_aa_Aspnom1.txt.gz' and \
+            i != 'predicted_genes_aa_Xylcur1.txt.gz' and i != 'predicted_genes_aa_Aspcal1.txt.gz':
         files.append(i)
 
-for i in range(925, 930, 1):
+# Create tsv file with the number of genes and the corresponding occurrence in species
+for i in range(lower_bound, upper_bound, 1):
     counter = 0
     genes_above_threshold = count_genes(long_list, unique_long_list, i)
     for file in files:
         counter = count_species(file, genes_above_threshold, counter)
-
-    print(str(i) + ' ' + str(len(genes_above_threshold)) + '  ' + str(counter))
     output_file.write(str(i) + ' ' + str(len(genes_above_threshold)) + '  ' + str(counter) + '\n')
