@@ -8,8 +8,8 @@
 import pathlib
 import os
 
-# Change the fasta names
-def change_fasta_name(file_name):
+# Change the GFF names
+def change_GFF_name(file_name):
     if '_GeneCatalog' in file_name:
         species = file_name.split('_GeneCatalog')[0]
     elif '_Filtered' in file_name:
@@ -49,4 +49,4 @@ for i in result:
 # Modify each file name
 for file in files:
     if file.endswith('.gz'):
-        change_fasta_name(file)
+        change_GFF_name(file)
